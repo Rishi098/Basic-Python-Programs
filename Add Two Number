@@ -1,13 +1,13 @@
 #Python program to add two numbers 
   
-num1 = 15
-num2 = 12
+numone = 15
+numtwo = 12
   
 #Adding two nos 
-sum = num1 + num2 
+sum = numone + numtwo
   
 #printing values 
-print("Sum of {0} and {1} is {2}" .format(num1, num2, sum)) 
+print("Sum of {0} and {1} is {2}" .format(numone, numtwo, sum)) 
 
 ------------------------------------------------------------
 
