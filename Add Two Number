@@ -1,7 +1,7 @@
 #Python program to add two numbers 
   
-numone = 15
-numtwo = 12
+numone = int(input("Enter The Number 1")
+numtwo = int(input("Enter The Number 2")
   
 #Adding two nos 
 sum = numone + numtwo
