@@ -11,7 +11,7 @@ Features:
 - Extract timestamp information and analyze time patterns
 - Export analysis results to a text file
 
-Author: Your Name
+Author: Pranav Verma
 Date: 2025
 """
 
